@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Library.DAL.Context;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,6 +17,20 @@ namespace SuperLibraryManagement
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            SetGLobalConnectionString();
+  
+        }
+        private void SetGLobalConnectionString()
+        {
+            try
+            {
+                DapperContext.GlobalSqlConnectionString= System.Configuration.ConfigurationManager.ConnectionStrings["db_connection"].ConnectionString.ToString();
+            }
+            catch 
+            {
+
+            }
         }
     }
 }
+

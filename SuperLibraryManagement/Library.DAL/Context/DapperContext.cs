@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace Library.DAL.Context
 {
     public class DapperContext
 
     {
-        public static string GlobalSqlConnectionString = ConfigurationManager.ConnectionStrings["db_connection"].ConnectionString.ToString();
+        public static string GlobalSqlConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["db_connection"].ConnectionString.ToString();
         public static string OtherSqlConnectionString = "";
 
         public static T ExeScalarQuery<T>(String QueryText, DynamicParameters paras)
