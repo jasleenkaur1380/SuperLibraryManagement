@@ -1,0 +1,6 @@
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\bin\Debug\Library.BAL.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\bin\Debug\Library.BAL.pdb
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\obj\Debug\Library.BAL.csproj.AssemblyReference.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\obj\Debug\Library.BAL.csproj.CoreCompileInputs.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\obj\Debug\Library.BAL.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.BAL\obj\Debug\Library.BAL.pdb

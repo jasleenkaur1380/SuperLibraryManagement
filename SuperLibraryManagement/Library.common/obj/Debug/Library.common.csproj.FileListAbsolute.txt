@@ -1,0 +1,6 @@
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\bin\Debug\Library.common.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\bin\Debug\Library.common.pdb
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\obj\Debug\Library.common.csproj.AssemblyReference.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\obj\Debug\Library.common.csproj.CoreCompileInputs.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\obj\Debug\Library.common.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.common\obj\Debug\Library.common.pdb

@@ -1,0 +1,6 @@
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\bin\Debug\Library.DAL.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\bin\Debug\Library.DAL.pdb
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\obj\Debug\Library.DAL.csproj.AssemblyReference.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\obj\Debug\Library.DAL.csproj.CoreCompileInputs.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\obj\Debug\Library.DAL.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DAL\obj\Debug\Library.DAL.pdb

@@ -1,0 +1,6 @@
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\bin\Debug\Library.DTO.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\bin\Debug\Library.DTO.pdb
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\obj\Debug\Library.DTO.csproj.AssemblyReference.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\obj\Debug\Library.DTO.csproj.CoreCompileInputs.cache
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\obj\Debug\Library.DTO.dll
+D:\SuperLibraryManagement\SuperLibraryManagement\Library.DTO\obj\Debug\Library.DTO.pdb
