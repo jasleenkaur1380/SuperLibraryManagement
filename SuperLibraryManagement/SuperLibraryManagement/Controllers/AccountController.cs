@@ -13,22 +13,22 @@ namespace SuperLibraryManagement.Controllers
         {
             try
             {
-                if (true)
-                {
 
-                }
-                else
-                {
-                    if (true)
-                    {
-                        if (true)
-                        {
-
-                        }
-                    }
-                }
             }
-            catch (Exception ex)
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return View();
+        } 
+        public ActionResult login()
+        {
+            try
+            {
+
+            }
+            catch (Exception)
             {
 
                 throw;

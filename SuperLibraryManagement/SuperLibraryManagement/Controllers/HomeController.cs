@@ -16,7 +16,15 @@ namespace SuperLibraryManagement.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            try
+            {
 
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
             return View();
         }
 
