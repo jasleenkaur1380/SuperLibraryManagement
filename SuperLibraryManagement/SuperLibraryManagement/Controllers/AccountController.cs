@@ -11,6 +11,28 @@ namespace SuperLibraryManagement.Controllers
         // GET: Account
         public ActionResult Index()
         {
+            try
+            {
+                if (true)
+                {
+
+                }
+                else
+                {
+                    if (true)
+                    {
+                        if (true)
+                        {
+
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw;
+            }
             return View();
         } 
     }
