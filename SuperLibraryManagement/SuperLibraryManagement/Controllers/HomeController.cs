@@ -23,7 +23,6 @@ namespace SuperLibraryManagement.Controllers
             catch (Exception)
             {
 
-                throw;
             }
             return View();
         }

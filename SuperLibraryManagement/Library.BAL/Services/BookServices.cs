@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Library.BAL.Interface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,11 @@ using System.Threading.Tasks;
 
 namespace Library.BAL.Services
 {
-    class BookServices
+   public class BookServices
     {
+        public void GetallBooks()
+        {
+
+        }
     }
 }

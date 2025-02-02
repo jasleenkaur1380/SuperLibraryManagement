@@ -45,11 +45,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DBModels\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="AppModels\" />
-    <Folder Include="DBModels\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
