@@ -10,7 +10,12 @@ namespace SuperLibraryManagement.Controllers
     {
         public ActionResult Index()
         {
+            TempData["Success"] = "Welcome to the dashboard!";
+            TempData["Error"] = "Something went wrong!";
+            TempData["Warning"] = "This is a warning message!";
+            TempData["Info"] = "Here is some information!";
             return View();
+
         }
 
         public ActionResult About()
